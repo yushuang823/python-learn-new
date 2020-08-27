@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80971149-7cb4-4586-b65b-94e1b6e31856" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonsuanfa/08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonsuanfa/09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonsuanfa/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonsuanfa/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonsuanfa/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonsuanfa/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonsuanfa/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonsuanfa/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonsuanfa/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonsuanfa/17.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonsuanfa/07.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonsuanfa/07.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +51,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.10">
-    <configuration name="05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.17">
+    <configuration name="13" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="likou" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +65,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonsuanfa/05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonsuanfa/13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="14" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="likou" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +87,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonsuanfa/06.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonsuanfa/14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="15" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="likou" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +109,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonsuanfa/07.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonsuanfa/15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="16" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="likou" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +131,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonsuanfa/08.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonsuanfa/16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="17" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="likou" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,7 +153,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonsuanfa/10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonsuanfa/17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.10" />
-        <item itemvalue="Python.08" />
-        <item itemvalue="Python.07" />
-        <item itemvalue="Python.06" />
-        <item itemvalue="Python.05" />
+        <item itemvalue="Python.17" />
+        <item itemvalue="Python.16" />
+        <item itemvalue="Python.15" />
+        <item itemvalue="Python.14" />
+        <item itemvalue="Python.13" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +185,7 @@
       <workItem from="1597668805163" duration="4622000" />
       <workItem from="1597849830761" duration="7625000" />
       <workItem from="1598332153332" duration="20312000" />
-      <workItem from="1598427580753" duration="4365000" />
+      <workItem from="1598427580753" duration="22166000" />
     </task>
     <servers />
   </component>
@@ -203,16 +206,24 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/likou$05.coverage" NAME="05 Coverage Results" MODIFIED="1598344457560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonsuanfa" />
+    <SUITE FILE_PATH="coverage/likou$13.coverage" NAME="13 Coverage Results" MODIFIED="1598521040579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonsuanfa" />
     <SUITE FILE_PATH="coverage/likou$10.coverage" NAME="10 Coverage Results" MODIFIED="1598443519353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonsuanfa" />
-    <SUITE FILE_PATH="coverage/likou$02.coverage" NAME="02 Coverage Results" MODIFIED="1598337655216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonsuanfa" />
+    <SUITE FILE_PATH="coverage/likou$16.coverage" NAME="16 Coverage Results" MODIFIED="1598540519892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonsuanfa" />
     <SUITE FILE_PATH="coverage/likou$03.coverage" NAME="03 Coverage Results" MODIFIED="1598337669820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonsuanfa" />
     <SUITE FILE_PATH="coverage/likou$07.coverage" NAME="07 Coverage Results" MODIFIED="1598367583170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonsuanfa" />
     <SUITE FILE_PATH="coverage/likou$_strStr__.coverage" NAME="实现 strStr() Coverage Results" MODIFIED="1597765670633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/likou$04.coverage" NAME="04 Coverage Results" MODIFIED="1598342348913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonsuanfa" />
-    <SUITE FILE_PATH="coverage/likou$01.coverage" NAME="01 Coverage Results" MODIFIED="1598283885018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonsuanfa" />
+    <SUITE FILE_PATH="coverage/likou$09.coverage" NAME="09 Coverage Results" MODIFIED="1598458976580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonsuanfa" />
+    <SUITE FILE_PATH="coverage/likou$12.coverage" NAME="12 Coverage Results" MODIFIED="1598519173754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonsuanfa" />
+    <SUITE FILE_PATH="coverage/likou$15.coverage" NAME="15 Coverage Results" MODIFIED="1598536441622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonsuanfa" />
     <SUITE FILE_PATH="coverage/likou$06.coverage" NAME="06 Coverage Results" MODIFIED="1598351356883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonsuanfa" />
     <SUITE FILE_PATH="coverage/likou$.coverage" NAME="字符串反转 Coverage Results" MODIFIED="1597852010682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/likou$05.coverage" NAME="05 Coverage Results" MODIFIED="1598344457560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonsuanfa" />
+    <SUITE FILE_PATH="coverage/likou$02.coverage" NAME="02 Coverage Results" MODIFIED="1598337655216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonsuanfa" />
+    <SUITE FILE_PATH="coverage/likou$11.coverage" NAME="11 Coverage Results" MODIFIED="1598519125224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonsuanfa" />
+    <SUITE FILE_PATH="coverage/likou$04.coverage" NAME="04 Coverage Results" MODIFIED="1598342348913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonsuanfa" />
+    <SUITE FILE_PATH="coverage/likou$14.coverage" NAME="14 Coverage Results" MODIFIED="1598532630753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonsuanfa" />
+    <SUITE FILE_PATH="coverage/likou$17.coverage" NAME="17 Coverage Results" MODIFIED="1598544963628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonsuanfa" />
+    <SUITE FILE_PATH="coverage/likou$01.coverage" NAME="01 Coverage Results" MODIFIED="1598283885018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonsuanfa" />
     <SUITE FILE_PATH="coverage/likou$08.coverage" NAME="08 Coverage Results" MODIFIED="1598370450015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonsuanfa" />
   </component>
 </project>
